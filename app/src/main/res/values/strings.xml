@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">CROP-predictor-app</string>
+<string name="PREDICT">PREDICT</string>
+<string name="textview">TextView</string>
+<string name="temperature">TEMPERATURE</string>
+<string name="air_humidity">AIR HUMIDITY</string>
+<string name="ph">Ph</string>
+<string name="rainfall">RAINFALL</string>
+<string name="soil">soil</string>
+</resources>
